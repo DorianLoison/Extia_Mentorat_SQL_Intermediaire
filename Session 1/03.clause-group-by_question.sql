@@ -1,6 +1,7 @@
 /*
-    Compter le nombre d'individus répartis par Sexe
-    dont le Titre n'est pas connu
+    Dans la table Contact,
+    Réparti par Sexe, compter le nombre d'individus
+        dont le Titre n'est pas connu
 */
 
 SELECT COUNT(*)
